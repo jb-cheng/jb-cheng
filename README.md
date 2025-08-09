@@ -22,7 +22,7 @@
   <img src="https://static.wixstatic.com/media/37f7aa_79b2fb7d1561478088d098ee2f4e1f85~mv2.png/v1/fill/w_640,h_640,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/37f7aa_79b2fb7d1561478088d098ee2f4e1f85~mv2.png" width="400" height="400"/>
 </div>
 
-## Stuff I know I guess
+## 🚀 Stuff I know I guess
 ### 💻 Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
