@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6ImZsb2F0aWUiLCJ0ZXh0IjoiSGklMjB0aGVyZSElMjBJJ20lMjBKdW4lMjBCaW4hIiwiaWF0IjoxNzU0NjIzNzIyfQ.1m25WG3F5YDzcDNTe98DDnHkEgQdWKgvZTK01LBZi1o"/>
+  <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true"/>
 </div>
 
 <div align="center">
