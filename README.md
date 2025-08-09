@@ -60,6 +60,8 @@
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-ca)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 
-## 🤝 Connect with me!
-[![Jun Bin Cheng](https://img.shields.io/badge/Jun_Bin_Cheng-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jb-cheng/)
-[![junbin.cheng@ontariotechu.net](https://img.shields.io/badge/junbin.cheng%40ontariotechu.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junbin.cheng@ontariotechu.net)
+<div id="user-content-toc" align="center">
+<h2>🤝 Connect with me!</h2>
+<a href="https://www.linkedin.com/in/jb-cheng/"><img src="https://img.shields.io/badge/Jun_Bin_Cheng-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:junbin.cheng@ontariotechu.net"><img src="https://img.shields.io/badge/junbin.cheng@ontariotechu.net-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</div>
