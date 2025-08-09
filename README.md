@@ -2,7 +2,13 @@
   <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true" height="100" alt="Hi there! I'm Jun Bin!"/>
 </div>
 
-### 🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h2>🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner</h2>
+    </summary>
+  </ul>
+</div>
 
 ### 🔭 Exploring: AI Agents, LLMs, WebDev
 
