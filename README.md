@@ -12,6 +12,10 @@
   </ul>
 </div>
 
+<p>
+  I'm a forth year software engineering student at OTU.  I'm interested in AI Agents, LLMs, and the application of ML theory.  
+</p>
+
 <div align="center">
   <img src="https://static.wixstatic.com/media/37f7aa_79b2fb7d1561478088d098ee2f4e1f85~mv2.png/v1/fill/w_640,h_640,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/37f7aa_79b2fb7d1561478088d098ee2f4e1f85~mv2.png" width="400" height="400"/>
 </div>
