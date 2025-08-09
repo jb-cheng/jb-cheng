@@ -2,19 +2,7 @@
   <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true" height="100" alt="Hi there! I'm Jun Bin!"/>
 </div>
 
-<div id="user-content-toc" align="center">
-  <ul align="center" style="list-style: none;">
-    <summary>
-      <h2 style="text-align: center;">
-        🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner <br>
-      🔭 Exploring: AI Agents, LLMs, WebDev <br>
-        🏫 Education: Forth Year Software Engineering Student @ OTU
-      </h2>
-      <h2 style="text-align: center;"></h2>
-      <h2 style="text-align: center;"></h2>
-    </summary>
-  </ul>
-</div>
+
 
 <div align="center">
   <img src="https://static.wixstatic.com/media/37f7aa_79b2fb7d1561478088d098ee2f4e1f85~mv2.png/v1/fill/w_640,h_640,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/37f7aa_79b2fb7d1561478088d098ee2f4e1f85~mv2.png" width="400" height="400"/>
