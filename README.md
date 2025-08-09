@@ -6,13 +6,13 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h2>
-        🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner
+        🌱 Software Engineer | ML Researcher | x3 Hackathon Winner
       </h2>
       <h2>
-      🔭 Exploring: AI Agents, LLMs, WebDev <br>
+        🔭 Exploring AI Agents, LLMs, WebDev
       </h2>
       <h2>
-        🏫 Education: Forth Year Software Engineering Student @ OTU
+        🏫 Forth Year Software Engineering Student @ OTU
       </h2>
     </summary>
   </ul>
