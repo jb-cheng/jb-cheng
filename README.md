@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true" height="80" alt="Hi there! I'm Jun Bin!"/>
+  <img src="https://github.com/jb-cheng/jb-cheng/blob/main/hi.gif?raw=true" height="100" alt="Hi there! I'm Jun Bin!"/>
 </div>
 
 <div align="center">
