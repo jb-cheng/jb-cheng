@@ -12,7 +12,7 @@
   </ul>
   <p>
     I'm a forth year software engineering student at Ontario Tech University.  I'm interested in AI Agents, LLMs, and the application of ML theory.  In my free time, I like rock climbing and catching up on Arknights' stories.  My favorite food is noodles + soup 🍜.<br><br>
-    Anyways here's me on a daily:
+    Anyways here's me on a daily basis:
   </p>
 </div>
 
