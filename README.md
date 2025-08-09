@@ -11,8 +11,8 @@
     </summary>
   </ul>
   <p>
-        I'm a forth year software engineering student at OTU.  I'm interested in AI Agents, LLMs, and the application of ML theory.  I like to read Arknights stories.  
-      </p>
+    I'm a forth year software engineering student at Ontario Tech University.  I'm interested in AI Agents, LLMs, and the application of ML theory.  In my free time, I like rock climbing and catching up on Arknights' stories.  My favorite food is noodles + soup 🍜.
+  </p>
 </div>
 
 
