@@ -6,13 +6,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h2>
-        🌱 Software Engineer | ML Researcher | x3 Hackathon Winner
-      </h2>
-      <h2>
-        🔭 Exploring AI Agents, LLMs, WebDev
-      </h2>
-      <h2>
-        🏫 Forth Year Software Engineering Student @ OTU
+        🌱 Software Engineer | NLP Researcher | x3 Hackathon Winner
       </h2>
     </summary>
   </ul>
