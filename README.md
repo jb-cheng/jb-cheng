@@ -5,9 +5,13 @@
 <div id="user-content-toc" align="center">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h2 style="text-align: center;">
-        🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner <br>
+      <h2>
+        🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner
+      </h2>
+      <h2>
       🔭 Exploring: AI Agents, LLMs, WebDev <br>
+      </h2>
+      <h2>
         🏫 Education: Forth Year Software Engineering Student @ OTU
       </h2>
     </summary>
