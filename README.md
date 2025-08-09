@@ -5,7 +5,9 @@
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
     <summary>
-      <h1>🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner</h1>
+      <center>
+      <h2 style="text-align: center;">🌱 About Me: Software Engineer, ML Researcher, x3 Hackathon Winner</h2>
+      </center>
     </summary>
   </ul>
 </div>
