@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none;">
     <summary>
       <h2>
-        🌱 Software Engineer | NLP Researcher | x3 Hackathon Winner
+        🌱 Software Engineer | NLP Researcher | 3x Hackathon Winner
       </h2>
     </summary>
   </ul>
