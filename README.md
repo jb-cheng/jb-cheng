@@ -11,7 +11,7 @@
     </summary>
   </ul>
   <p>
-    👋 Hey there! I'm a forth year software engineering student at Ontario Tech University.  I'm interested in AI Agents, LLMs, and NLP.  In my free time, I like rock climbing and catching up on Arknights' stories (Yup, my portfolio is based on one of Arknights' stories!).  My favorite food is noodles + soup 🍜.<br><br>
+    👋 Hey there! I'm a forth year software engineering student at Ontario Tech University.  I'm interested in AI Agents, LLMs, and NLP.  In my free time, I like rock climbing and catching up on Arknights' stories (my portfolio is even based on one of Arknights' stories!).  My favorite food is noodles + soup 🍜.<br><br>
     <b> 💡 Anyways here's me on a daily basis: </b>
   </p>
 </div>
